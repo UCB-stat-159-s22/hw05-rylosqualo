@@ -1,5 +1,7 @@
 ## Fine-tuning reproduciblity of LIGO Black Hole signal tutorial
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-rylosqualo/HEAD?labpath=https%3A%2F%2Fgithub.com%2FUCB-stat-159-s22%2Fhw05-rylosqualo%2Fblob%2Fmain%2Findex.ipynb)
+
 https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-rylosqualo/HEAD?labpath=https%3A%2F%2Fgithub.com%2FUCB-stat-159-s22%2Fhw05-rylosqualo%2Fblob%2Fmain%2Findex.ipynb
 
 
